@@ -1,1 +1,2 @@
 # developer-zone
+This is DEVELOPER ZONE COMPANY In ALL OVER THE WORLD 
