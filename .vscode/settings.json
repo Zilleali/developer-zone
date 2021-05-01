@@ -2,5 +2,12 @@
     "cSpell.words": [
         "ZILLEALIBUTT",
         "sunnyalibutt"
-    ]
+    ],
+    "cSpell.language": "en,en-GB,en-US",
+    "cSpell.enableFiletypes": [
+        "groovy",
+        "log",
+        "sql"
+    ],
+
 }
